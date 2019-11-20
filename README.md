@@ -1,10 +1,12 @@
-## About API-Authentication
+## About Laravel-API
 
-This is a skeleton for authenticating API using Passport package for any API-Creation.
+This is a project for laravel API using packages, API resources etc. 
 
 This project uses: 
 - Auth controller for register and login.
-- Passport Package
+- Passport Package.
+- API Resource
+
 
 ## License
 
